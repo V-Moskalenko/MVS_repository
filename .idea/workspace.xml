@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18e8623d-5099-4d69-8de1-07111e89171d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Silicon Valley.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1625818000609</updated>
       <workItem from="1625818003402" duration="1779000" />
-      <workItem from="1625820641206" duration="594000" />
+      <workItem from="1625820641206" duration="1940000" />
+      <workItem from="1626246541739" duration="302000" />
     </task>
     <servers />
   </component>
